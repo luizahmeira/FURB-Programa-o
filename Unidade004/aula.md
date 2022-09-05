@@ -1,0 +1,3 @@
+- Agora desenvolvendo algoritmos em loop
+- utilizando if, else, else if, while, do while, swicth case, for
+- exercícios da unidade 4 - https://github.com/robsonsouza10/disciplinaIPNoturno/blob/main/Unidade4/atividadeAula.md
